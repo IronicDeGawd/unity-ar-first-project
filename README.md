@@ -5,5 +5,5 @@ You can download the apk from release. Move your screen to around to look. There
 
 ## Screenshots
 <img src="Assets/game_ui.jpg" width="400"/> 
-<img src="Assets/basic.gif" width="400"/> 
-<img src="Assets/moving_forward.gif" width="400"/> 
+<img src="Assets/basic.gif"/> 
+<img src="Assets/moving_forward.gif"/> 
